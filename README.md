@@ -28,6 +28,9 @@ LSTM Architecture:
 *   import matplotlib.pyplot as plt
 *   %matplotlib inline (for jupyter notebooks)
 
+### Data used in project is located in TextFiles folder:
+*   test_qa.txt
+*   train_qa.txt
 
 ### Resources:
 
