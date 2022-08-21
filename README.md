@@ -15,6 +15,19 @@ LSTM Architecture:
 
 ![image](https://user-images.githubusercontent.com/59450769/184835866-a15ffba9-c84b-4ace-836e-dbcd97ce42db.png)
 
+### Imports:
+*   numpy
+*   pickle
+*   from keras.preprocessing.sequence import pad_sequences 
+*   from keras.preprocessing.text import Tokenizer
+*   from keras.models import Sequential, Model 
+*   from keras.layers.embeddings import Embedding
+*   from keras.layers import Input, Activation, Dense, Permute, Dropout 
+*   from keras.layers import add, dot, concatenate 
+*   from keras.layers import LSTM
+*   import matplotlib.pyplot as plt
+*   %matplotlib inline (for jupyter notebooks)
+
 
 ### Resources:
 
