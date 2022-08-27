@@ -1,5 +1,7 @@
 # meta-babi-bot
-###Build a Question and Answer ChatBot Capable of Lateral Thinking
+![video](https://www.loom.com/share/4f8eed8c60b64c9ca4d7ecaaf716765b)
+
+### Build a Question and Answer ChatBot Capable of Lateral Thinking
 
 ![image](https://user-images.githubusercontent.com/59450769/184835274-ba3b539c-ded1-4533-a6ce-1eb0e883aea9.png)
 ![image](https://user-images.githubusercontent.com/59450769/184835366-ad44ddd3-3acf-4fe1-8f5b-1628684632ae.png)
