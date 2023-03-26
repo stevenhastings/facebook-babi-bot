@@ -39,6 +39,9 @@ LSTM Architecture:
 
 *   [End-to-End Memory Networks](https://arxiv.org/pdf/1503.08895.pdf)
 *   [Meta Research](https://research.facebook.com/downloads/babi/)
+_______________________________________________________________________
+_______________________________________________________________________
+_______________________________________________________________________
 
-### Code along:
-https://youtu.be/dLjzcIuERfU
+# Code along:
+[![Watch the video](https://img.youtube.com/vi/dLjzcIuERfU/0.jpg)](https://www.youtube.com/watch?v=dLjzcIuERfU)
